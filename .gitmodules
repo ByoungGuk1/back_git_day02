@@ -1,0 +1,3 @@
+[submodule "day02"]
+	path = day02
+	url = https://github.com/ByoungGuk1/back_git_day02.git
